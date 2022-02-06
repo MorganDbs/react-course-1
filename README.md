@@ -25,3 +25,5 @@ You have to create a todo list with these features:
 - Drag and drop todo (using [beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd))
 - List virtualization (using [react-window](https://github.com/bvaughn/react-window))
 - Use React context
+
+#Jim57100 = Jean-Michael SALICE
