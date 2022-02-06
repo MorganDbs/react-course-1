@@ -1,0 +1,20 @@
+body {
+  background: linear-gradient(
+    90deg,
+    rgba(105, 20, 204, 1) 0%,
+    rgba(44, 114, 251, 1) 100%
+  );
+}
+
+.list {
+  background-color: gainsboro;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.4;
+}
+
+li {
+  list-style-type: none;
+}
